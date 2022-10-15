@@ -1,9 +1,7 @@
 node_modules/
 *DS_Store
 vendor/
-src/
 appsalon_mvc.sql
-gulpfile.js
 package-lock.json
 .env
 composer.lock
